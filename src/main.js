@@ -17,8 +17,8 @@ let config = {
     render: {
         pixelArt: true  // prevent pixel art from getting blurred when scaled
     },
-    width: 800,
-    height: 600,
+    width: 1200,
+    height: 800,
     scene: [Gallery],
     fps: { forceSetTimeOut: true, target: 30 }
 }
